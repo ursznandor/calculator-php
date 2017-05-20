@@ -21,5 +21,6 @@
 		</select><br>
 		<button type="submit" name="submit" value="submit">CALCULATE</button>
 	</form>
+<p>The result is: <?php include ("core.php"); ?></p>
 </BODY>
 </HTML>
